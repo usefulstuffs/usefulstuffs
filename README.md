@@ -5,3 +5,7 @@ In my profile you can check out all my projects.
 
 ## Contacts
 - Discord: @vichingo455 (you can also find me in some servers)
+
+## Donate
+If you like my project and you wanna show some appreciation, below there are the links for donating. Thanks!
+- [5€ on Satispay](https://web.satispay.com/app/match/link/user/S6Y-CON--88923C30-BEC8-487E-9814-68A5449F7D83?amount=500&currency=EUR)
